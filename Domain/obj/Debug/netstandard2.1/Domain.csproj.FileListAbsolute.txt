@@ -6,3 +6,11 @@ C:\Users\David Oh\Desktop\DotNetCore_React\DotNetCore-and-React\Domain\obj\Debug
 C:\Users\David Oh\Desktop\DotNetCore_React\DotNetCore-and-React\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
 C:\Users\David Oh\Desktop\DotNetCore_React\DotNetCore-and-React\Domain\obj\Debug\netstandard2.1\Domain.dll
 C:\Users\David Oh\Desktop\DotNetCore_React\DotNetCore-and-React\Domain\obj\Debug\netstandard2.1\Domain.pdb
+C:\Users\David Oh\Desktop\Develop\DotNetCore_React\DotNetCore-and-React\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\David Oh\Desktop\Develop\DotNetCore_React\DotNetCore-and-React\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\David Oh\Desktop\Develop\DotNetCore_React\DotNetCore-and-React\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\David Oh\Desktop\Develop\DotNetCore_React\DotNetCore-and-React\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Users\David Oh\Desktop\Develop\DotNetCore_React\DotNetCore-and-React\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\David Oh\Desktop\Develop\DotNetCore_React\DotNetCore-and-React\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\David Oh\Desktop\Develop\DotNetCore_React\DotNetCore-and-React\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\David Oh\Desktop\Develop\DotNetCore_React\DotNetCore-and-React\Domain\obj\Debug\netstandard2.1\Domain.pdb

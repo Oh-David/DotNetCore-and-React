@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj": {}
+    "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj": {
+    "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\David Oh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David Oh\\AppData\\Roaming\\NuGet\\NuGet.Config",

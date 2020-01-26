@@ -1146,11 +1146,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\API\\API.csproj",
+      "projectPath": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\API\\API.csproj",
       "packagesPath": "C:\\Users\\David Oh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\API\\obj\\",
+      "outputPath": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\David Oh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1166,8 +1166,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Application\\Application.csproj"
+            "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Application\\Application.csproj"
             }
           }
         }

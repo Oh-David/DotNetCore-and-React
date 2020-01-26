@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Application\\Application.csproj": {}
+    "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Application\\Application.csproj": {
+    "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\David Oh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Application\\obj\\",
+        "outputPath": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David Oh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj"
+              "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Persistence\\Persistence.csproj"
+              "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj": {
+    "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\David Oh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David Oh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -115,14 +115,14 @@
         }
       }
     },
-    "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\David Oh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David Oh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,8 +138,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\David Oh\\Desktop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj"
+              "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\David Oh\\Desktop\\Develop\\DotNetCore_React\\DotNetCore-and-React\\Domain\\Domain.csproj"
               }
             }
           }
